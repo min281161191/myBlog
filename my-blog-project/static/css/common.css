@@ -1,0 +1,12 @@
+html {
+	height: 100%;
+	font-size: 10px;
+}
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: 'PingFang SC', Helvetica, 'Helvetica Neue', 'Microsoft YaHei', Tahoma, Arial, sans-serif;
+	color: #333435;
+	background: #fff;
+}
